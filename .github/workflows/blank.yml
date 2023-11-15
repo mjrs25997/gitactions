@@ -32,6 +32,4 @@ jobs:
         mvn test  # Replace with the actual command to run your tests
       env:
         CHROME_BIN: /usr/bin/chromium-browser
-git add .
-git commit -m "Add GitHub Actions workflow for Selenium tests"
-git push
+
